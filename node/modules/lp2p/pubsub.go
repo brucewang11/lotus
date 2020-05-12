@@ -63,6 +63,10 @@ func GossipSub(cfg *config.Pubsub) interface{} {
 					// TODO we want to whitelist IPv6 /64s that belong to datacenters etc
 					// IPColocationFactorWhitelist: map[string]struct{}{},
 
+					// behavioural penalties decay after 1hr
+					BehaviourPenaltyWeight: -10,
+					BehaviourPenaltyDecay:  pubsub.ScoreParameterDecay(time.Hour),
+
 					DecayInterval: pubsub.DefaultDecayInterval,
 					DecayToZero:   pubsub.DefaultDecayToZero,
 
