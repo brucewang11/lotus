@@ -192,7 +192,6 @@ github.com/filecoin-project/specs-actors v0.0.0-20200409043918-e569f4a2f504/go.m
 github.com/filecoin-project/specs-actors v0.2.0/go.mod h1:nQYnFbQ7Y0bHZyq6HDEuVlCPR+U3z5Q3wMOQ+2aiV+Y=
 github.com/filecoin-project/specs-actors v0.3.0/go.mod h1:nQYnFbQ7Y0bHZyq6HDEuVlCPR+U3z5Q3wMOQ+2aiV+Y=
 github.com/filecoin-project/specs-actors v0.4.1-0.20200508202406-42be6629284d/go.mod h1:UW3ft23q6VS8wQoNqLWjENsu9gu1uh6lxOd+H8cwhT8=
-github.com/filecoin-project/specs-actors v0.4.1-0.20200509020627-3c96f54f3d7d/go.mod h1:UW3ft23q6VS8wQoNqLWjENsu9gu1uh6lxOd+H8cwhT8=
 github.com/filecoin-project/specs-actors v0.5.1 h1:uBPdtCnGRuBo/BNw9nrnf5NCdsaVJB/8FdfIpee1HZg=
 github.com/filecoin-project/specs-actors v0.5.1/go.mod h1:r5btrNzZD0oBkEz1pohv80gSCXQnqGrD0kYwOTiExyE=
 github.com/filecoin-project/specs-actors v0.5.2 h1:9Y11ctTaD5ul4L2imC2moPMVEUyIOWT88s9WD3VMj0I=
@@ -691,8 +690,6 @@ github.com/libp2p/go-libp2p-protocol v0.1.0 h1:HdqhEyhg0ToCaxgMhnOmUO8snQtt/kQlc
 github.com/libp2p/go-libp2p-protocol v0.1.0/go.mod h1:KQPHpAabB57XQxGrXCNvbL6UEXfQqUgC/1adR2Xtflk=
 github.com/libp2p/go-libp2p-pubsub v0.1.1/go.mod h1:ZwlKzRSe1eGvSIdU5bD7+8RZN/Uzw0t1Bp9R1znpR/Q=
 github.com/libp2p/go-libp2p-pubsub v0.2.6/go.mod h1:5jEp7R3ItQ0pgcEMrPZYE9DQTg/H3CTc7Mu1j2G4Y5o=
-github.com/libp2p/go-libp2p-pubsub v0.2.7-0.20200505181014-5bbe37191afb h1:kVOUUt/ipiYgqB7t8qsUfs36o5ySZbShFL2BXICuRdU=
-github.com/libp2p/go-libp2p-pubsub v0.2.7-0.20200505181014-5bbe37191afb/go.mod h1:tFvkRgsW96JilTvYwe1X/lYqpruTXBqEatNXq3/MqBw=
 github.com/libp2p/go-libp2p-pubsub v0.2.7-0.20200508182004-fedb87bd57ea h1:bQKOMfjlc5e/Hpshpg/zrClzjD60pxAXkPuWvHGnRRM=
 github.com/libp2p/go-libp2p-pubsub v0.2.7-0.20200508182004-fedb87bd57ea/go.mod h1:tFvkRgsW96JilTvYwe1X/lYqpruTXBqEatNXq3/MqBw=
 github.com/libp2p/go-libp2p-quic-transport v0.1.1 h1:MFMJzvsxIEDEVKzO89BnB/FgvMj9WI4GDGUW2ArDPUA=
